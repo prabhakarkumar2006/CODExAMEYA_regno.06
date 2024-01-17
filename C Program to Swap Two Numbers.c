@@ -2,7 +2,7 @@
 
 17-December-2023
 
-Ankit Kumar Singh
+prabhakar Kumar 
 */
 #include<stdio.h>
 main ()
