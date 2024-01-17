@@ -1,6 +1,6 @@
 /* C Program to Check Whether a Number is Prime or Not
 25-December-2023
-Ankit Kumar Singh
+prabhakar Kumar
 */
 #include<stdio.h>
 int main()
