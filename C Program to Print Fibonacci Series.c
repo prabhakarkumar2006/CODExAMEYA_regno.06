@@ -1,6 +1,6 @@
 /* C Program to Print Fibonacci Series
 8 - January-2024
-Ankit Kumar Singh
+prabhakar Kumar 
 */
 
 #include <stdio.h>
