@@ -1,6 +1,6 @@
 /* C Program to Find Factorial of a Number
 8 - January-2024
-Ankit Kumar Singh
+prabhakar Kumar
 */
 
 #include <stdio.h>
