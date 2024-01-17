@@ -1,6 +1,6 @@
 /* C Program to Check Whether a Number is Positive, Negative, or Zero
 8 - January-2024
-Ankit Kumar Singh
+prabhakar Kumar
 */
 
 #include <stdio.h>
