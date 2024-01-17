@@ -1,6 +1,6 @@
 /* C Program for Area and Perimeter of Rectangle
 8 - January-2024
-Ankit Kumar Singh
+prabhakar kumar 
 */
 
 #include <stdio.h>
